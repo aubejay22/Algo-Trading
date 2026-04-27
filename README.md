@@ -37,4 +37,4 @@ The deck derives optimal liquidation and acquisition strategies under different 
 
 This slide deck focuses on stochastic-control models for market making. It studies how a market maker chooses quotes or posting decisions while managing cash, inventory, execution intensities, and terminal inventory costs.
 
-The material covers optimal quote depths, inventory risk, execution probabilities, and extensions with adverse selection through short-term alpha. It also discusses how order imbalance and order-flow information affect market-making decisions.
+The material covers optimal quote depths, inventory risk, execution probabilities, and extensions with adverse selection through short-term alpha. It also discusses order imbalance and order-flow information.
